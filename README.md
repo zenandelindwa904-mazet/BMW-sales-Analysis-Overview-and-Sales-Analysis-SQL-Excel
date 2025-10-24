@@ -11,7 +11,7 @@ This project aims to analyze BMW’s sales data to identify key trends, top-perf
 ### DASHBOARD , Overview Analysis
 Analyse the BMW data using SQL And Excel to gain insight into Model,transmition fuel type and sales volume during the years, helping drive business decision making.
 
-INSIGHT
+#####INSIGHT
 BMW is a luxury car brand built on delivering high quality vehicles to its customers. Between 2010 and 2024, the company experienced fluctuating sales trends, with 2022 recording the highest number of vehicles sold globally, followed by a decline in 2023. Sales volumes were generally strong between 2014 and 2024, reflecting consistent demand and brand loyalty.
 Customer preferences across regions such as Africa, Asia, and South America show a stronger inclination toward manual and automatic cars compared to electric and hybrid models. The Asian market emerged as BMW’s largest consumer base, followed by European countries.
 Although there is an overall negative relationship between mileage and price, certain high end BMW models retain higher prices despite higher mileage, suggesting strong brand and model-specific value resilience. Furthermore, automatic cars tend to be priced higher on average than manual cars, which influences purchasing decisions as customers often substitute expensive automatic models for more affordable manual ones.
